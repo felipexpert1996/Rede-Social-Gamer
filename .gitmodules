@@ -1,0 +1,3 @@
+[submodule "rede-social-gamer-backend"]
+	path = rede-social-gamer-backend
+	url = git@github.com:felipexpert1996/rede-social-gamer-backend.git
